@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/traveler/static/css/main.503a1e87.chunk.css",
-    "main.js": "/traveler/static/js/main.cf6202e2.chunk.js",
-    "main.js.map": "/traveler/static/js/main.cf6202e2.chunk.js.map",
-    "runtime~main.js": "/traveler/static/js/runtime~main.76714117.js",
-    "runtime~main.js.map": "/traveler/static/js/runtime~main.76714117.js.map",
-    "xlsx.js": "/traveler/static/js/xlsx.842572df.chunk.js",
-    "xlsx.js.map": "/traveler/static/js/xlsx.842572df.chunk.js.map",
-    "static/js/3.239cbcf7.chunk.js": "/traveler/static/js/3.239cbcf7.chunk.js",
-    "static/js/3.239cbcf7.chunk.js.map": "/traveler/static/js/3.239cbcf7.chunk.js.map",
-    "static/js/4.937e35ef.chunk.js": "/traveler/static/js/4.937e35ef.chunk.js",
-    "static/js/4.937e35ef.chunk.js.map": "/traveler/static/js/4.937e35ef.chunk.js.map",
-    "static/js/5.0a20bcbe.chunk.js": "/traveler/static/js/5.0a20bcbe.chunk.js",
-    "static/js/5.0a20bcbe.chunk.js.map": "/traveler/static/js/5.0a20bcbe.chunk.js.map",
-    "static/js/6.bb4a690b.chunk.js": "/traveler/static/js/6.bb4a690b.chunk.js",
-    "static/js/6.bb4a690b.chunk.js.map": "/traveler/static/js/6.bb4a690b.chunk.js.map",
+    "main.css": "/traveler/static/css/main.6427dfb8.chunk.css",
+    "main.js": "/traveler/static/js/main.82b02285.chunk.js",
+    "main.js.map": "/traveler/static/js/main.82b02285.chunk.js.map",
+    "runtime~main.js": "/traveler/static/js/runtime~main.168aafdf.js",
+    "runtime~main.js.map": "/traveler/static/js/runtime~main.168aafdf.js.map",
+    "static/css/2.472e681e.chunk.css": "/traveler/static/css/2.472e681e.chunk.css",
+    "static/js/2.680bb36d.chunk.js": "/traveler/static/js/2.680bb36d.chunk.js",
+    "static/js/2.680bb36d.chunk.js.map": "/traveler/static/js/2.680bb36d.chunk.js.map",
     "index.html": "/traveler/index.html",
-    "precache-manifest.2c2db48d4b2f9f18eb6370db685fc2a0.js": "/traveler/precache-manifest.2c2db48d4b2f9f18eb6370db685fc2a0.js",
+    "precache-manifest.409f49181887bb65db16fd2c7b21f872.js": "/traveler/precache-manifest.409f49181887bb65db16fd2c7b21f872.js",
     "service-worker.js": "/traveler/service-worker.js",
-    "static/css/main.503a1e87.chunk.css.map": "/traveler/static/css/main.503a1e87.chunk.css.map"
+    "static/css/2.472e681e.chunk.css.map": "/traveler/static/css/2.472e681e.chunk.css.map",
+    "static/css/main.6427dfb8.chunk.css.map": "/traveler/static/css/main.6427dfb8.chunk.css.map"
   }
 }
