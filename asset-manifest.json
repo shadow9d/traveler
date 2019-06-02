@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/traveler/static/css/main.a0dcc9e3.chunk.css",
+    "main.css": "/traveler/static/css/main.915da77b.chunk.css",
     "main.js": "/traveler/static/js/main.82b02285.chunk.js",
     "main.js.map": "/traveler/static/js/main.82b02285.chunk.js.map",
     "runtime~main.js": "/traveler/static/js/runtime~main.168aafdf.js",
@@ -9,9 +9,9 @@
     "static/js/2.680bb36d.chunk.js": "/traveler/static/js/2.680bb36d.chunk.js",
     "static/js/2.680bb36d.chunk.js.map": "/traveler/static/js/2.680bb36d.chunk.js.map",
     "index.html": "/traveler/index.html",
-    "precache-manifest.c932c8a756df574790e5f9976f538b0a.js": "/traveler/precache-manifest.c932c8a756df574790e5f9976f538b0a.js",
+    "precache-manifest.346963927e96252b61e24d30f4e91250.js": "/traveler/precache-manifest.346963927e96252b61e24d30f4e91250.js",
     "service-worker.js": "/traveler/service-worker.js",
     "static/css/2.472e681e.chunk.css.map": "/traveler/static/css/2.472e681e.chunk.css.map",
-    "static/css/main.a0dcc9e3.chunk.css.map": "/traveler/static/css/main.a0dcc9e3.chunk.css.map"
+    "static/css/main.915da77b.chunk.css.map": "/traveler/static/css/main.915da77b.chunk.css.map"
   }
 }
